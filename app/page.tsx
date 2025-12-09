@@ -14,7 +14,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "TransportCompany",
   name: "Tanzeel Logistics Ltd",
-  alternateName: "Tanzeel Transporters",
+  alternateName: "Tanzeel Logistics",
   url: "https://tanzeellogistics.com",
   logo: "https://tanzeellogistics.com/logo.png",
   image: "https://tanzeellogistics.com/og-image.png",

@@ -49,7 +49,7 @@ export function Header() {
           <Link href='#home' className='flex items-center'>
             <Image
               src='/logo.png'
-              alt='Tanzeel Transporters'
+              alt='Tanzeel Logistics'
               width={180}
               height={60}
               className='h-14 w-auto'
@@ -92,7 +92,7 @@ export function Header() {
                 <SheetTitle>
                   <Image
                     src='/logo.png'
-                    alt='Tanzeel Transporters'
+                    alt='Tanzeel Logistics'
                     width={160}
                     height={53}
                     className='h-12 w-auto'

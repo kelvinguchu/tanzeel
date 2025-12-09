@@ -31,7 +31,7 @@ export function Footer() {
             <Link href='#home' className='inline-block mb-4 sm:mb-6'>
               <Image
                 src='/logo.png'
-                alt='Tanzeel Transporters'
+                alt='Tanzeel Logistics'
                 width={180}
                 height={60}
                 className='h-10 sm:h-14 w-auto brightness-0 invert'

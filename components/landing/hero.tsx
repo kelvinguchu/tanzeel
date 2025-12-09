@@ -99,7 +99,7 @@ export function Hero() {
               {/* Main Image */}
               <div className='relative rounded-3xl overflow-hidden shadow-2xl'>
                 <Image
-                  src='/skeleton_trailer.jpg'
+                  src='/skeleton_trailer.webp'
                   alt='Flat Body Truck'
                   width={600}
                   height={400}

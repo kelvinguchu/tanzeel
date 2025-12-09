@@ -11,14 +11,14 @@ const fleetItems = [
     capacity: "20-28 MT",
   },
   {
-    image: "/skeleton_trailer.jpg",
+    image: "/skeleton_trailer.webp",
     title: "Skeleton Trailers",
     description:
       "Versatile trailers for 20ft, 40ft containers and heavy machinery transportation.",
     capacity: "20-28 MT",
   },
   {
-    image: "/low-bed-truck.jpg",
+    image: "/low-bed-truck.webp",
     title: "Low Bed Trucks",
     description:
       "Specialized for carrying heavy machines of big tonnage like bulldozers.",

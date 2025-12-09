@@ -24,10 +24,10 @@ export function About() {
           {/* Left Content */}
           <div>
             <p className='text-base sm:text-lg text-gray-600 mb-4 sm:mb-6 leading-relaxed'>
-              Tanzeel Transporters Limited is a well-established transport
-              company operating within East and Central Africa. We have been in
-              the business for over a decade, building a reputation for
-              reliability and excellence.
+              Tanzeel Logistics Limited is a well-established transport company
+              operating within East and Central Africa. We have been in the
+              business for over a decade, building a reputation for reliability
+              and excellence.
             </p>
             <p className='text-gray-600 mb-8 leading-relaxed'>
               From ship shunting – loading bulk cargo directly from ships to
