@@ -30,9 +30,9 @@ export function Hero() {
 
             <p className='text-lg md:text-xl text-gray-600 mb-8 leading-relaxed max-w-xl'>
               Specialized in mineral transportation including iron ore, gypsum,
-              coal, and other cargo across Kenya, Uganda, Tanzania, Ethiopia,
-              South Sudan, Sudan, and Congo. Safety, reliability, and precision
-              delivery guaranteed.
+              coal, and other cargo across Kenya, Uganda, Tanzania, Rwanda,
+              Burundi, Ethiopia, South Sudan, Sudan, and DR Congo. Safety,
+              reliability, and precision delivery guaranteed.
             </p>
 
             {/* CTA Buttons */}

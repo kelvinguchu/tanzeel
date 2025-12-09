@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     template: "%s | Tanzeel Logistics",
   },
   description:
-    "Tanzeel Logistics is a leading transport company specializing in mineral and cargo transportation across Kenya, Uganda, Tanzania, Ethiopia, South Sudan, Sudan, and DR Congo. Fleet of 100+ trucks, 10+ years experience. Safe, reliable, and timely delivery guaranteed.",
+    "Tanzeel Logistics is a leading transport company specializing in mineral and cargo transportation across Kenya, Uganda, Tanzania, Rwanda, Burundi, Ethiopia, South Sudan, Sudan, and DR Congo. Fleet of 100+ trucks, 10+ years experience. Safe, reliable, and timely delivery guaranteed.",
   keywords: [
     "transport company Kenya",
     "cargo transport East Africa",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     title:
       "Tanzeel Logistics | Reliable Cargo & Mineral Transport Across East Africa",
     description:
-      "Leading transport company with 100+ trucks specializing in mineral and cargo transportation across 7 East African countries. Safe, reliable, and timely delivery.",
+      "Leading transport company with 100+ trucks specializing in mineral and cargo transportation across 9 East African countries. Safe, reliable, and timely delivery.",
     images: [
       {
         url: "/og-image.png",
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Tanzeel Logistics | Cargo & Mineral Transport East Africa",
     description:
-      "Leading transport company with 100+ trucks. Mineral and cargo transportation across Kenya, Uganda, Tanzania, Ethiopia, South Sudan, Sudan & DR Congo.",
+      "Leading transport company with 100+ trucks. Mineral and cargo transportation across Kenya, Uganda, Tanzania, Rwanda, Burundi, Ethiopia, South Sudan, Sudan & DR Congo.",
     images: ["/og-image.png"],
   },
   robots: {

@@ -19,7 +19,7 @@ const jsonLd = {
   logo: "https://tanzeellogistics.com/logo.png",
   image: "https://tanzeellogistics.com/og-image.png",
   description:
-    "Leading transport company specializing in mineral and cargo transportation across Kenya, Uganda, Tanzania, Ethiopia, South Sudan, Sudan, and DR Congo.",
+    "Leading transport company specializing in mineral and cargo transportation across Kenya, Uganda, Tanzania, Rwanda, Burundi, Ethiopia, South Sudan, Sudan, and DR Congo.",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Kampala Road",
@@ -46,6 +46,8 @@ const jsonLd = {
     { "@type": "Country", name: "South Sudan" },
     { "@type": "Country", name: "Sudan" },
     { "@type": "Country", name: "Democratic Republic of the Congo" },
+    { "@type": "Country", name: "Rwanda" },
+    { "@type": "Country", name: "Burundi" },
   ],
   hasOfferCatalog: {
     "@type": "OfferCatalog",

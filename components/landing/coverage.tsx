@@ -44,6 +44,18 @@ const countries = [
     description: "Mining regions and commercial centers",
     isHQ: false,
   },
+  {
+    name: "Rwanda",
+    flag: "🇷🇼",
+    description: "Efficient cross-border cargo services",
+    isHQ: false,
+  },
+  {
+    name: "Burundi",
+    flag: "🇧🇮",
+    description: "Regional transport and logistics",
+    isHQ: false,
+  },
 ];
 
 const routeHighlights = [
@@ -65,7 +77,7 @@ export function Coverage() {
             Our Coverage
           </h2>
           <p className='text-gray-600 mt-2'>
-            Transport network spanning 7 countries across East & Central Africa
+            Transport network spanning 9 countries across East & Central Africa
           </p>
         </div>
 
@@ -150,7 +162,7 @@ export function Coverage() {
             </div>
             <div>
               <div className='text-2xl sm:text-4xl md:text-5xl font-bold text-secondary mb-1 sm:mb-2'>
-                7
+                9
               </div>
               <div className='text-xs sm:text-base text-white/80'>
                 Countries Served
