@@ -99,10 +99,20 @@ export function Footer() {
         <Separator className='my-10 bg-white/10' />
 
         {/* Bottom Bar */}
-        <div className='flex items-center justify-center'>
-          <p className='text-white/60 text-sm'>
+        <div className='flex flex-col md:flex-row items-center justify-between gap-4'>
+          <p className='text-white/60 text-sm text-center md:text-left'>
             © {new Date().getFullYear()} Tanzeel Logistics Ltd. All rights
             reserved.
+          </p>
+          <p className='text-white/60 text-sm text-center md:text-right'>
+            Developed and Designed by{' '}
+            <Link
+              href='https://www.kulmi.digital/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='hover:text-secondary transition-colors'>
+              Kulmi Digital
+            </Link>
           </p>
         </div>
       </div>
